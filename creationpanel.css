@@ -1,0 +1,83 @@
+.button{
+    -fx-padding: 14;
+    -fx-background-color: linear-gradient(#9EA7E5, #61a2b1);
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+}
+
+.button:hover{
+   -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+   -fx-text-fill: #ffffff;
+}
+
+
+.text-field {
+    -fx-font-size:20px;
+    -fx-background-color: transparent;
+    -fx-border-color: #FAEBD7;
+    -fx-border-width: 0 0 3 0;
+}
+
+#listtitle{
+    -fx-font-size: 40pt;
+}
+
+#test {
+    -fx-background-color: #ADD8E6;
+    //-fx-spacing: 1000;
+    //-fx-padding: 200;
+}
+
+HBox {
+    -fx-spacing: 5;
+}
+
+#test1 {
+    -fx-spacing: 20;
+}
+
+#test2 {
+    -fx-spacing: 20;
+}
+
+#test3 {
+    -fx-spacing: 20;
+}
+
+#test4 {
+    -fx-spacing: 20;
+}
+
+.combo-box{
+    -fx-background-color: #ffffff;
+}
+
+.radio-button .radio {
+    -fx-background-color: #FAEBD7;
+    -fx-padding: 8px;
+}
+.radio-button .radio:selected {
+    -fx-background-color: #FAEBD7;
+}
+
+.radio-button .dot {
+    -fx-background-radius: 3px;
+    -fx-padding: 6px;
+}
+
+
+#innervbox {
+    -fx-spacing: 8px;
+}
+
+.grid-pane {
+    -fx-padding: 15px;
+}
+
+.text{
+    -fx-font-size: 15px;
+}
+
+.questions{
+    -fx-font-size: 20px;
+}

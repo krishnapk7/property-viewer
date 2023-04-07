@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stat
+comment0.text=\r\n\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21054573\ and\ K21004839\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=Stat()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stat\r\n
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\r\n\ @return\ A\ string\ \r\n
+comment3.params=newText
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ Assigns\ the\ new\ text\ to\ the\ current\ text\r\n\ @param\ newText\r\n
+numComments=4

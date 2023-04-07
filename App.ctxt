@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ This\ class\ runs\ the\ whole\ application,\ initiating\ the\ application\ Window\ and\ the\ main\ controller.\r\n\ \r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ Starts\ the\ overall\ program,\ creating\ the\ relevant\ stages\ and\ scenes.\r\n
+numComments=2

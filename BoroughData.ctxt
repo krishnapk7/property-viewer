@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BoroughData
+comment0.text=\r\n\ Represents\ one\ listing\ of\ a\ borough\ for\ rental\ on\ Airbnb.\r\n\ This\ is\ essentially\ one\ row\ in\ the\ data\ table.\ Each\ column\r\n\ has\ a\ corresponding\ field.\r\n\r\n\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ anwar\ siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=neighbourhood\ crimeRate\ population\ area\ GDP
+comment1.target=BoroughData(java.lang.String,\ double,\ int,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNeighbourhood()
+comment3.params=
+comment3.target=double\ getCrimeRate()
+comment4.params=
+comment4.target=int\ getPopulation()
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=int\ getGDP()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

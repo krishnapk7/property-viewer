@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Panel
+comment0.text=\r\n\ Superclass\ of\ panes\ which\ helps\ order\ them,\ renew\ them\ and\ provide\ them\ the\ filtered\ list\ of\ properties\ easily.\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=Panel()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ getPane()
+comment2.text=\r\n\ Abstract\ method\ to\ get\ the\ pane.\r\n
+comment3.params=
+comment3.target=java.util.List\ getListOfProperties()
+comment3.text=\r\n\ @return\ listOfProperties\ The\ filtered\ list\ of\ properties.\r\n
+comment4.params=properties
+comment4.target=void\ setProperties(java.util.List)
+comment4.text=\r\n\ @param\ properties\ Sets\ the\ new\ list\ of\ properties.\r\n
+comment5.params=
+comment5.target=void\ renewPanel()
+comment5.text=\r\n\ Abstract\ method\ for\ updating\ the\ panels\ when\ the\ price\ has\ been\ changed.\r\n
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PropertyWindow
+comment0.text=\r\n\ Displays\ the\ details\ of\ the\ property\ that\ the\ user\ has\ selected\ in\ a\ new\ window.\r\n\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=property
+comment1.target=PropertyWindow(AirbnbListing)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PropertyWindow\r\n
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \r\n\ Creates\ a\ new\ window\ to\ display\ data.\r\n\r\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\r\n
+comment3.params=stage\ title
+comment3.target=void\ setTitle(javafx.stage.Stage,\ java.lang.String)
+comment3.text=\r\n\ Set's\ the\ title\ of\ the\ window\ to\ a\ user\ specified\ value.\r\n\ @param\ stage\ The\ stage\ to\ which\ the\ title\ is\ to\ be\ set.\r\n\ @param\ title\ The\ string\ of\ value\ of\ the\ title\ we\ want\ to\ set.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment4.text=\r\n\ Return's\ the\ title\ of\ the\ property\ description\ window.\r\n\ @return\ String\ title.\r\n
+comment5.params=pane
+comment5.target=void\ listOfProperties(javafx.scene.layout.BorderPane)
+comment5.text=\r\n\ Create\ text\ to\ display\ property\ details.\r\n\ @param\ BorderPane\ the\ pane\ to\ which\ we\ want\ to\ add\ these\ details.\r\n
+comment6.params=event
+comment6.target=void\ viewMap(javafx.scene.input.MouseEvent)
+comment6.text=\r\n\ Opens\ up\ the\ property\ in\ a\ browser\ map\ so\ that\ the\ user\ can\ determine\ more\ about\ the\ neighbourhood.\r\n
+numComments=7

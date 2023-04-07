@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PropertyViewerWindowTest
+comment0.text=\r\n\ The\ test\ class\ PropertyViewerWindowTest.\r\n\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=PropertyViewerWindowTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PropertyViewer_PanelTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testA()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=
+comment6.target=void\ run()
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PanelController
+comment0.text=\r\n\ Controller\ Class\ that\ handles\ Panels,\ the\ renewals\ of\ them\ and\ returning\ the\ right\ one\ to\ be\ displayed.\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=PanelController()
+comment1.text=\r\n\ Constructor\ which\ sets\ up\ the\ array\ list\ with\ the\ panels\ in\ order.\r\n
+comment2.params=
+comment2.target=void\ setCurrentPane()
+comment2.text=\r\n\ Sets\ the\ current\ Pane.\r\n
+comment3.params=newList
+comment3.target=void\ setListOfProperties(java.util.List)
+comment3.text=\r\n\ Sets\ the\ new\ list\ of\ filtered\ properties\ and\ updates\ the\ panels.\r\n
+comment4.params=
+comment4.target=void\ updatePanels()
+comment4.text=\r\n\ Updates\ the\ panels\ by\ providing\ the\ new\ array\ list\ into\ the\ superclass\ and\ renews\ all\ panels\ if\ they\ depend\ on\ price.\r\n
+comment5.params=
+comment5.target=void\ incrementPane()
+comment5.text=\r\n\ Increments\ the\ index\ and\ sets\ the\ new\ pane.\r\n
+comment6.params=
+comment6.target=void\ decrementPane()
+comment6.text=\r\n\ Decrements\ the\ index\ and\ sets\ the\ new\ pane.\r\n
+comment7.params=
+comment7.target=javafx.scene.layout.Pane\ getCurrentPane()
+comment7.text=\r\n\ @return\ currentPane\ The\ current\ pane\ to\ be\ displayed\ in\ the\ application\ window.\r\n
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MainController
+comment0.text=\r\n\ The\ main\ controller\ class\ that\ holds\ action\ events\ for\ the\ application\ window\ and\ deals\ with\ passing\ data\ from\ the\ Model\r\n\ to\ the\ view.\r\n\ \r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=view
+comment1.target=MainController(ApplicationWindow)
+comment1.text=\r\n\ Constructor\ which\ creates\ the\ other\ sub\ controllers\ and\ sets\ the\ action\ events.\r\n\ @param\ view\ The\ Application\ Window\r\n
+comment2.params=event
+comment2.target=void\ minComboBoxAction(javafx.event.Event)
+comment2.text=\r\n\ Handles\ everything\ that\ occurs\ once\ the\ price\ of\ the\ min\ combo\ box\ has\ been\ set.\r\n\ Catches\ the\ IOException\ from\ the\ PropertyData\ class\r\n\ @param\ event\ When\ the\ user\ chooses\ a\ new\ value.\r\n
+comment3.params=
+comment3.target=void\ playSound()
+comment3.text=\r\n\ Plays\ the\ sound\ for\ switching\ between\ panes.\r\n
+comment4.params=event
+comment4.target=void\ maxComboBoxAction(javafx.event.Event)
+comment4.text=\r\n\ Handles\ everything\ that\ occurs\ once\ the\ price\ of\ the\ max\ combo\ box\ has\ been\ set.\r\n\ Catches\ the\ IOException\ from\ the\ PropertyData\ class\r\n\ @param\ event\ When\ the\ user\ chooses\ a\ new\ value.\r\n
+comment5.params=
+comment5.target=void\ setListOfProperties()
+comment5.text=\r\n\ Sets\ the\ list\ of\ properties\ for\ all\ panels\ inherit\ from\ Panel\ Superclass.\r\n
+comment6.params=event
+comment6.target=void\ rightButtonAction(javafx.event.ActionEvent)
+comment6.text=\r\n\ @param\ event\ When\ the\ right\ button\ is\ clicked\ the\ next\ pane\ should\ be\ loaded.\r\n
+comment7.params=event
+comment7.target=void\ leftButtonAction(javafx.event.ActionEvent)
+comment7.text=\r\n\ @param\ event\ When\ the\ left\ button\ is\ clicked\ the\ next\ pane\ should\ be\ loaded.\ \r\n
+numComments=8

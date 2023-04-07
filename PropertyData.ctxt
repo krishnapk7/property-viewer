@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PropertyData
+comment0.text=\r\n\ Class\ for\ holding\ data\ on\ the\ current\ selected\ price\ range\ and\ the\ list\ of\ properties\ in\ the\ current\ price\ range.\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=PropertyData()
+comment2.params=
+comment2.target=java.util.List\ getCurrentListOfProperties()
+comment2.text=\r\n\ @return\ The\ current\ List\ Of\ Properties\r\n
+comment3.params=
+comment3.target=void\ computeListingsInPriceRange()
+comment3.text=\r\n\ Static\ Method\ that\ computes\ which\ Properties\ are\ within\ the\ current\ price\ range.\r\n
+comment4.params=newPrice
+comment4.target=void\ setMinPrice(int)
+comment4.text=\r\n\ @param\ newPrice\ Sets\ the\ new\ minPrice\r\n\ @throws\ IOException\ If\ price\ is\ invalid\r\n
+comment5.params=newPrice
+comment5.target=void\ setMaxPrice(int)
+comment5.text=\r\n\ @param\ newPrice\ Sets\ the\ new\ maxPrice\r\n\ @throws\ IOException\ If\ price\ is\ invalid\r\n
+comment6.params=newProperty
+comment6.target=void\ addProperties(AirbnbListing)
+comment6.text=\r\n\ Adds\ properties\ to\ the\ allProperties\ list\r\n\ @param\ newProperty\ The\ new\ property\ that\ should\ be\ added\ to\ the\ arraylist\r\n
+numComments=7

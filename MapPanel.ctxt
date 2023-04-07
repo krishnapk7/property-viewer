@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MapPanel
+comment0.text=\r\n\ MapPanelController\ displays\ the\ user\ with\ the\ Map\ Panel\r\n\ \r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=MapPanel()
+comment1.text=\r\n\ Constructor\ for\ Objects\ of\ class\ MapPanelController\r\n
+comment2.params=
+comment2.target=void\ createPane()
+comment2.text=\r\n\ Initialises\ map\ panel\ created\ from\ scene\ builder\ and\ adds\ basic\ features\ that\ is\ to\ be\ displayed\ \r\n\ to\ the\ user\ in\ this\ map\ panel.\r\n
+comment3.params=event
+comment3.target=void\ hideColorScheme(javafx.scene.input.MouseEvent)
+comment3.text=\r\n\ Hide's\ the\ colour\ scheme\ for\ the\ neighbourhood\ buttons\ while\ the\ mouse\ does\ not\ hover\ over\ it.\r\n
+comment4.params=event
+comment4.target=void\ showColorScheme(javafx.scene.input.MouseEvent)
+comment4.text=\r\n\ Display's\ the\ colour\ scheme\ for\ the\ neighbourhood\ buttons\ while\ the\ user\ hovers\ over\ it.\r\n
+comment5.params=
+comment5.target=void\ setButtonColours()
+comment5.text=\r\n\ Set's\ the\ colour\ of\ the\ buttons\ to\ visually\ infrom\ the\ user\ roughly\ how\ many\ properties\ are\ present\ \r\n\ in\ each\ neighbourhood\ for\ the\ user\ selected\ price\ range.\r\n
+comment6.params=
+comment6.target=javafx.scene.layout.Pane\ getPane()
+comment6.text=\r\n\ Return's\ the\ content\ that\ should\ be\ displayed\ in\ the\ map\ panel.\r\n\ @return\ contentPane\r\n
+comment7.params=
+comment7.target=void\ renewPanel()
+comment7.text=\r\n\ Updates\ the\ visual\ color\ label\ to\ display\ correct\ number\ of\ properties\ in\ each\r\n\ neighbourhood\ when\ price\ range\ is\ altered\ by\ the\ user.\r\n
+numComments=8

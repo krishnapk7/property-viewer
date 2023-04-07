@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HostController
+comment0.text=\r\n\ Class\ that\ controls\ the\ challenge\ panel\ and\ controls\ the\ action\ events\ and\ the\ flow\ of\ data\ from\ the\ user\ input\ into\r\n\ creating\ a\ new\ listing\r\n\ @author\ Mohamed\ Shazeen\ Shaheen\ Nazeer,\ Abbas\ BinVakas\r\n\ Krishna\ Prasanna\ Kumar\ and\ Shozab\ Anwar\ Siddique\r\n\ K21086651,\ K21013731,\ K21004839\ and\ K21054573\r\n\ @version\ 25/03/2022\r\n
+comment1.params=
+comment1.target=HostController()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CreationController\r\n
+comment2.params=
+comment2.target=HostPropertyPanel\ getHostPropertyPanel()
+comment2.text=\r\n\ @return\ hostPropertyPanel\ The\ panel\ that\ the\ user\ can\ view.\r\n
+comment3.params=event
+comment3.target=void\ enterButtonAction(javafx.event.ActionEvent)
+comment3.text=\r\n\ Action\ Event\ for\ the\ enter\ button.\r\n\ It\ goes\ through\ all\ the\ fields\ and\ checks\ whether\ or\ not\ a\ valid\ input\ has\ been\ made.\r\n
+numComments=4
